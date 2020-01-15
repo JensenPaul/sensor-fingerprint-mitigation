@@ -1,4 +1,4 @@
-## Device Orientation Sensor Calibration Fingerprint Mitigation
+# Device Orientation Sensor Calibration Fingerprint Mitigation
 
 ## Background
 
